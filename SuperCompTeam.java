@@ -3,10 +3,19 @@ Author: Teffixily
 Date: 10/31/16
 Description: Beginning of the Super Computer
 */
+import java.util.Scanner;
 
 public class SuperCompTeam {
     public static void main (String[] args) {
-
+        System.out.println ("Hello and welcome to our for loops");
+        Scanner scanner = new Scanner (System.in);
+        System.out.println("1) Print 100 messages saying hi");
+        System.out.println("2) Sing the 100 bottles of beer song");
+        System.out.println("");
+        System.out.println("");
+        System.out.println("");
+        System.out.println("");
+        System.out.println("");
         //Print 100 messages saying hi
         for ( int t=0; t<100; t++) {
             System.out.println("Message number: "+ t +"Hi");

@@ -16,6 +16,7 @@ public class SuperCompTeam {
         System.out.println("5) Count down from 100,000 to 0");
         System.out.println("6) Say 'Spooky Scary Skeletons a 100,000 times'");
         System.out.println("7) Count up from 0 to 100,000");
+        System.out.print("Please enter your choice: ");
         int option = scanner.nextInt();
         
         //Print 100 messages saying hi, Tucker
@@ -31,6 +32,7 @@ public class SuperCompTeam {
                 System.out.println(t + " bottles of beer");
                 System.out.println("Take one down pass it around");
                 System.out.println((t-1) + " bottles of beer on the wall");
+                System.out.println();
             }
         }
         // count down from 500,000 to 0, Mackenzie

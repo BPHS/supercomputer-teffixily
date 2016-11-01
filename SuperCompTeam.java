@@ -29,7 +29,7 @@ public class SuperCompTeam {
         for (int m = 0; m <= 994; m++) {
             System.out.println("Happy Halloween ");
         }
-
+//Kaitlyn Romanowicz did these three loops
 //Count down fron 100,000 to 0
         for (int i = 100000; i >=0; i--) {
             System.out.println("i == " +i);

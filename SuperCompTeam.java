@@ -27,7 +27,7 @@ public class SuperCompTeam {
         }
         //Sing the beer song, Tucker
         if (option == 2){
-            for (int t=99; t>-1; t--) {
+            for (int t=99; t>0; t--) {
                 System.out.println(t + " bottles of beer on the wall");
                 System.out.println(t + " bottles of beer");
                 System.out.println("Take one down pass it around");

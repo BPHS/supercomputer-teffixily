@@ -18,6 +18,7 @@ public class SuperCompTeam {
         System.out.println("7) Count up from 0 to 100,000");
         System.out.print("Please enter your choice: ");
         int option = scanner.nextInt();
+        System.out.println();
         
         //Print 100 messages saying hi, Tucker
         if (option == 1){
